@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = Blorgh::VERSION
   spec.authors     = ["adityapandit17"]
   spec.email       = ["adityapandit38@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Blorgh."
-  spec.description = "TODO: Description of Blorgh."
+  spec.homepage    = "http://github.com/adityapandit17/rails_engine_test"
+  spec.summary     = "Summary for my first engine."
+  spec.description = "Description for my first engine"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
